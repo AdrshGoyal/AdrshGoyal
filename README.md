@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Adarsh Goyal<br>A passionate AI/ML and Data Science developer from India<br>adrshgoyal<br><br>adrshgoyal<br><br>🌱 I’m currently learning AI/ML, Data Science, Data Analytics<br><br>👨‍💻 All of my projects are available at https://adrshgoyal.github.io/Portfoliyo/index.html<br><br>💬 Ask me about AI/ML, Data Science, Data Analytics<br><br>📫 How to reach me goyaladarsh49@gmail.com<br><br>Connect with me:<br>adarsh goyal<br><br>Languages and Tools:<br>cplusplusdockergitmongodbmysqlopencvpandaspythonpytorchscikit_learnseaborntensorflow<br><br>Support:<br>Adarsh goyal<br><br><br><br>adrshgoyal<br><br> adrshgoyal<br><br>adrshgoyal
+Hi 👋, I'm Adarsh Goyal<br>A passionate AI/ML and Data Science developer from India<br>adrshgoyal<br><br>adrshgoyal<br><br>🌱 I’m currently learning AI/ML, Data Science, Data Analytics<br><br>👨‍💻 All of my projects are available at https://adrshgoyal.github.io/Portfoliyo/index.html<br><br>💬 Ask me about AI/ML, Data Science, Data Analytics<br><br>📫 How to reach me goyaladarsh49@gmail.com<br><br>Connect with me:<br>adarsh goyal<br><br>Languages and Tools:<br>C++, docker, git, mongodb, mysql, opencv, pandas, python, pytorch, scikit_learn, seaborn, tensorflow, PowerBI, Excel, Data Analytics <br><br>Support:<br>Adarsh goyal<br><br><br><br>adrshgoyal<br><br> adrshgoyal<br><br>adrshgoyal
 
 
 ## 🌐 Socials:
